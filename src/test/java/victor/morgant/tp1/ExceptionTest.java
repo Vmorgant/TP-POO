@@ -1,6 +1,5 @@
 package victor.morgant.tp1;
 
-import junit.framework.Assert;
 import junit.framework.TestCase;
 
 public class ExceptionTest extends TestCase {
