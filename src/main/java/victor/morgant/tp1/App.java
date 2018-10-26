@@ -23,8 +23,6 @@ public class App
        z.nouvelAnimal(cn);
        z.nouvelAnimal(g);
        
-       System.out.println(z.nombreAnimaux());
-       
        
     }
 }

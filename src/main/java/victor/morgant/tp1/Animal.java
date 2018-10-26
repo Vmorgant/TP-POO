@@ -1,7 +1,11 @@
 package victor.morgant.tp1;
+
+import org.apache.logging.log4j.LogManager ;
+import org.apache.logging.log4j.Logger ;
 public abstract class Animal {
 	private String nom;
 	private TypeAnimal type;
+	static final Logger logger=LogManager.getLogger(Animal.class);
 	public String getNom() {
 		return nom;
 	}

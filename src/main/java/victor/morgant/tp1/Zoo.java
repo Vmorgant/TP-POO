@@ -29,6 +29,12 @@ public class Zoo {
 		for(Secteur s : secteursAnimaux) {
 			if(s.getType()==a.getType()) {
 				s.AjouterAnimal(a);
+				Animal.logger.debug (" Nouvel animal : " +a.getClass().toString());
+				Animal.logger.info (" Nouvel animal : "+a.getNom());
+				Animal.logger.warn (" Nouvel animal : " +a.getClass().toString());
+				Animal.logger.error (" Nouvel animal : " +a.getClass().toString());
+				Animal.logger.fatal (" Nouvel animal : " +a.getClass().toString());
+				Animal.logger.trace(" Nouvel animal : " +a.getClass().toString());
 			}
 		}
 	}

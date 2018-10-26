@@ -1,0 +1,20 @@
+2018-10-26 10:49:25.512 [main] DEBUG victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Boubou
+2018-10-26 10:49:25.531 [main] INFO  victor.morgant.tp1.Animal -  Nouvel animal : Elodie
+2018-10-26 10:49:25.531 [main] WARN  victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Boubou
+2018-10-26 10:49:25.532 [main] ERROR victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Boubou
+2018-10-26 10:49:25.532 [main] FATAL victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Boubou
+2018-10-26 10:49:25.532 [main] DEBUG victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Chat
+2018-10-26 10:49:25.532 [main] INFO  victor.morgant.tp1.Animal -  Nouvel animal : Mickey
+2018-10-26 10:49:25.532 [main] WARN  victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Chat
+2018-10-26 10:49:25.533 [main] ERROR victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Chat
+2018-10-26 10:49:25.533 [main] FATAL victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Chat
+2018-10-26 10:49:25.533 [main] DEBUG victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Chien
+2018-10-26 10:49:25.533 [main] INFO  victor.morgant.tp1.Animal -  Nouvel animal : Toto
+2018-10-26 10:49:25.533 [main] WARN  victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Chien
+2018-10-26 10:49:25.533 [main] ERROR victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Chien
+2018-10-26 10:49:25.533 [main] FATAL victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Chien
+2018-10-26 10:49:25.534 [main] DEBUG victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Gigapoueteur
+2018-10-26 10:49:25.534 [main] INFO  victor.morgant.tp1.Animal -  Nouvel animal : Axel
+2018-10-26 10:49:25.534 [main] WARN  victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Gigapoueteur
+2018-10-26 10:49:25.534 [main] ERROR victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Gigapoueteur
+2018-10-26 10:49:25.534 [main] FATAL victor.morgant.tp1.Animal -  Nouvel animal : class victor.morgant.tp1.Gigapoueteur
